@@ -1,17 +1,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Kufam&display=swap");
 
 body {
-    font-family: 'Kufam', cursive;
-    background-color: peachpuff;
+  font-family: "Kufam", cursive;
+  background-color: peachpuff;
 }
 
 h2 {
-    color: brown;
+  color: brown;
 }
 
 button {
-    background-color: brown;
-    color: white;
-    font-size: 120%;
-    cursor: pointer;
+  background-color: brown;
+  color: white;
+  font-size: 120%;
+  cursor: pointer;
+}
+
+input {
+  cursor: pointer;
 }
